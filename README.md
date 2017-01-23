@@ -1,5 +1,7 @@
 # Cosmo
 
+Modified copy of the original Cosmo server repository. Fixed the bug with the default user for the demo. 
+
 ## Introduction	
 
 Cosmo Calendar Server is part of an open source project called Chandler which provides calendaring features,
